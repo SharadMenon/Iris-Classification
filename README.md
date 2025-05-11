@@ -25,6 +25,16 @@ This project is a hands-on implementation of classic machine learning algorithms
 - `iris_classification.py` – Main script with training, testing, and plotting.
 - `README.md` – You're reading it :)
 
+## Output
+
+![image](https://github.com/user-attachments/assets/f7b81055-e44c-4538-92e6-d958e78a1894)
+![image](https://github.com/user-attachments/assets/8c11fec4-b1e9-4e91-9583-5edfd2ea6b38)
+![image](https://github.com/user-attachments/assets/f9b63a45-b4fc-43d5-aa6c-50cd168fadb7)
+![image](https://github.com/user-attachments/assets/3cc4e3e8-845c-4bc2-8e71-463700068a6d)
+![image](https://github.com/user-attachments/assets/5a7a2aad-b235-4e86-a6d2-0dee01f14e35)
+![image](https://github.com/user-attachments/assets/0d08127c-29b3-4079-a3f7-8545dfd3162d)
+
+
 ## 🚀 Run It Yourself
 ```bash
 pip install matplotlib seaborn scikit-learn pandas numpy
